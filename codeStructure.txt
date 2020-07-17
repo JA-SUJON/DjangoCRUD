@@ -1,3 +1,4 @@
 {% comment %} django-admin startproject DjangoCRUD {% endcomment %}
 {% comment %} python manage.py runserver {% endcomment %}
 {% comment %} python manage.py startapp CrudApp {% endcomment %}
+{% comment %} CrudApp include in DjangoCRUD->settings.py->INSTALLED_APPS {% endcomment %}
